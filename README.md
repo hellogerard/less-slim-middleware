@@ -33,5 +33,5 @@ $app->add(new Less(array(
     'cache.dir' => '/path/to/cache',
     'minify' => true,
     'debug' => false
-));
+)));
 ```
