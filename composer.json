@@ -3,6 +3,7 @@
   "homepage": "https://github.com/hellogerard/less-slim-middleware",
   "license": "MIT",
   "description": "Slim Framework middleware to compile LESS CSS files on-the-fly. Supports minification and caching.",
+  "keywords": ["less", "middleware", "slimphp"],
   "authors": [
     {
       "name": "Gerard Sychay",
