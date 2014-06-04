@@ -35,7 +35,3 @@ $app->add(new Less(array(
     'debug' => false
 )));
 ```
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hellogerard/less-slim-middleware/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
